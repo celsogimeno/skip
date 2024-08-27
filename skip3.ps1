@@ -1,0 +1,1 @@
+﻿$field = $assembly.GetField(('am{0}InitFailed' -f $c),'NonPublic,Static')
